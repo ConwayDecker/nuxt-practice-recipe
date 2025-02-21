@@ -8,10 +8,10 @@
                 </a>
                 <ul class="flex gap-6 ml-auto text-xl font-bold capitalize">
                     <li>
-                        <a href="">Home</a>
+                        <NuxtLink to="/">Home</NuxtLink>
                     </li>
                     <li>
-                        <a href="">About</a>
+                        <NuxtLink to="/about">About</NuxtLink>
                     </li>
                 </ul>
             </nav>
